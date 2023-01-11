@@ -1,5 +1,5 @@
-# NOTE: This code was all copied from production code I wrote but it has been 
-# obfuscated to protect IP so please excuse any errors or omissions
+# NOTE: 
+This code was all copied from production code I wrote but it has been obfuscated to protect IP so please excuse any errors or omissions
 
 # This is a template master project for all AWS CDK built lambda functions!
 
